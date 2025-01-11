@@ -5,7 +5,7 @@ pandas
 
 # Core libraries for NLP and ML
 spacy==3.7.5
-thinc==8.1.10
+
 scispacy==0.5.5
 
 # ClinicalTrials model
